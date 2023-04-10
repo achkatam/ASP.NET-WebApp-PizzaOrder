@@ -2,7 +2,7 @@
 
 Desciption for the simple project:
 
-## Used Razor pages instead of MVC Model
+## Used Razor pages  
 ### 1. Very basic project. Still experiencing problems with the site.css. 
 ### 2. Tried to follow MVVM pattern (Model-View ViewModel pattern) to separte the presentation of the page.
 ### 3. Set up Data Model - could be done by using interfaces for each type of pizza inherited by abstract pizza class.
